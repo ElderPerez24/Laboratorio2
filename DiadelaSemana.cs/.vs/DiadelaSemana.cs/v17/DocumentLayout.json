@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\3.er semestre\\PROGRA 1\\LABORATORIO 2\\DiadelaSemana.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17D6433-4E7D-445B-ABC6-27DD9098EB10}|DiadelaSemana.cs\\DiadelaSemana.cs.csproj|c:\\users\\usuario\\desktop\\3.er semestre\\progra 1\\laboratorio 2\\diadelasemana.cs\\diadelasemana.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D6433-4E7D-445B-ABC6-27DD9098EB10}|DiadelaSemana.cs\\DiadelaSemana.cs.csproj|solutionrelative:diadelasemana.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\3.er semestre\\PROGRA 1\\LABORATORIO 2\\DiadelaSemana.cs\\DiadelaSemana.cs\\Program.cs",
+              "RelativeDocumentMoniker": "DiadelaSemana.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\3.er semestre\\PROGRA 1\\LABORATORIO 2\\DiadelaSemana.cs\\DiadelaSemana.cs\\Program.cs",
+              "RelativeToolTip": "DiadelaSemana.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:09:18.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
