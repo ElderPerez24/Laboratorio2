@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\bin\Debug\net8.0\Declaraciony UsodeVariable.exe
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\bin\Debug\net8.0\Declaraciony UsodeVariable.deps.json
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\bin\Debug\net8.0\Declaraciony UsodeVariable.runtimeconfig.json
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\bin\Debug\net8.0\Declaraciony UsodeVariable.dll
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\bin\Debug\net8.0\Declaraciony UsodeVariable.pdb
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.dll
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\refint\Declaraciony UsodeVariable.dll
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.pdb
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\Declaraciony UsodeVariable.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\3.er semestre\PROGRA 1\LABORATORIO 2\Declaraciony UsodeVariable\Declaraciony UsodeVariable\obj\Debug\net8.0\ref\Declaraciony UsodeVariable.dll
